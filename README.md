@@ -28,4 +28,3 @@ https://www.kaggle.com/datasets/rohanthoma/ebook-pdfs
 ## Project Files
 
 Google Drive:https://drive.google.com/drive/folders/120RJ4y-09hD6QuJSfsxSF7-MXaR3748w?usp=sharing
-[ضع رابط Google Drive هنا]
