@@ -3,6 +3,7 @@
 A Corrective Retrieval-Augmented Generation system that answers questions from PDF documents.
 
 The system:
+
 - Retrieves relevant document chunks.
 - Evaluates the retrieved context.
 - Rewrites the question when the context is weak.
@@ -23,3 +24,8 @@ The system:
 
 Kaggle Dataset:
 https://www.kaggle.com/datasets/rohanthoma/ebook-pdfs
+
+## Project Files
+
+Google Drive:https://drive.google.com/drive/folders/120RJ4y-09hD6QuJSfsxSF7-MXaR3748w?usp=sharing
+[ضع رابط Google Drive هنا]
